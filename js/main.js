@@ -1,3 +1,5 @@
+
+
 require([], function (){
 
 	var isMobileInit = false;
